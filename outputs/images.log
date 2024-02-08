@@ -1,1 +1,22 @@
+[Detect faces]
 
+Image 1
+  Face #1
+  Face mask: no
+  Face #2
+  Face mask: no
+  Face #3
+  Face mask: no
+  Face #4
+  Face mask: no
+
+Image 2
+  No face detected
+
+[Add captions to images]
+
+Image 1
+  A group of men sitting together
+
+Image 2
+  A rainbow in the dark
